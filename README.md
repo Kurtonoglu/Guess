@@ -20,13 +20,9 @@ Built while learning the basics of JavaScript and DOM manipulation.
 ## 📂 Project Structure
 
 guess/
-├── index.html
-├── style.css
-└── script.js
-
-markdown
-Copy
-Edit
+index.html
+style.css
+script.js
 
 ## ✅ Learning Goals
 
